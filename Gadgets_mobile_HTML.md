@@ -1,11 +1,22 @@
 # CoinMarketRank HTML Gadgets of the Reports to include in your website or mobile/cell app for free
 ## .
-## Global Coin Market Capitalization distribution
+## ICOs Live
+```
+<iframe width="100%" height="2000" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/2/embed/report/5?embed_token=28o2lj59j4tv6im9lqxxowtewx7asydgugpl194owixggdz14u7oy1vnnnyy" frameborder="0"></iframe>
+```
+---
+## ICOs Upcoming
+```
+<iframe width="100%" height="600" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/2/embed/report/7?embed_token=45g50okmz8h3aro0tvvvlmhqd1nutx7iwn0qyf7780067cd1njtks8ptuk84" frameborder="0"></iframe>
+```
+---
+## .
+## Global Coin Market Capitalization Distribution
 ```
 <iframe width="100%" height="400" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/22?embed_token=g47puyh460w94qo5r0p15m3amyxxa8yemqqpaz5wc8oiheyzyfboiufljnrl" frameborder="0"></iframe>
 ```
 ---
-## Global 24 Volume Coin distribution
+## Global 24h Coin Volume Distribution
 ```
 <iframe width="100%" height="400" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/21?embed_token=sjp712qmyvbvm1uttfajoynhwttizxfe58746x7ycyiq4hwh26ey7ckogcpm" frameborder="0"></iframe>
 ```
