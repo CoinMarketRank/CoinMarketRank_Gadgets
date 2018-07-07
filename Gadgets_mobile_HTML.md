@@ -1,5 +1,21 @@
 # CoinMarketRank HTML Gadgets of the Reports to include in your website or mobile/cell app for free
 ## .
+## TOP20 1h Change
+```
+<iframe width="100%" height="600" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/35?embed_token=lkdzqbbvdzqixchm5mgpnggd4hffleelhdmv2bjfkq9d3kkmujmss7ai3yzl" frameborder="0"></iframe>
+```
+---
+## TOP20 24h Change
+```
+<iframe width="100%" height="600" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/36?embed_token=ookix5rr4kstb3vpv3gmhb9udcz2t7pssvaa25t4pvwp33yt39seu9l3qt89" frameborder="0"></iframe>
+```
+---
+## TOP20 7days Change
+```
+<iframe width="100%" height="600" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/37?embed_token=jg68l8j44nqmcngvthj78xp1iwcnm80rvoxpa78ewx9tq3anhra1xbpj4mca" frameborder="0"></iframe>
+```
+---
+## .
 ## Coins with price > 100$
 ```
 <iframe width="100%" height="600" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/20?embed_token=y0ulux2nz4ic47sg96flco5z3qfn18b5okcv6wwow7tmj1wngudyu5h52rwt" frameborder="0"></iframe>
