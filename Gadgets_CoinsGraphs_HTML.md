@@ -75,3 +75,28 @@
 <iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/68?embed_token=bt1hemka9o9lppsihsv47dsqej561dy3wampgk9er9o6w1d1b85llz7wvl6g" frameborder="0"></iframe>
 ```
 ---
+## 3 Months ETC
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/70?embed_token=1qg0tngz98ct4m8jurh2y1tsuksr8fyy5y1ccjkdpieuqlq90pdazt99oiz9" frameborder="0"></iframe>
+```
+---
+## 3 Months VEN
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/72?embed_token=auv1fyfdqohwbh04y5ptp4tgh9ciy17fzxlujcxb2llcx3o5aku99yp4fz3h" frameborder="0"></iframe>
+```
+---
+## 3 Months XEM
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/74?embed_token=q1rtvqn2zupgbdpzgwgz889dj93themyw7j105vuj6rj6sq0jjnrjkk5ttyu" frameborder="0"></iframe>
+```
+---
+## 3 Months QTUM
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/76?embed_token=ro0hwnin39euahwhk4hs3go6npqgwbvbxmp2k5oqai5oq93sw6iq8wo6fsti" frameborder="0"></iframe>
+```
+---
+## 3 Months ZEC
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/78?embed_token=mkb11l86bywokovj4ardm934wyypd7onidisesvrbzv0khykulatmoofu0rr" frameborder="0"></iframe>
+```
+---
