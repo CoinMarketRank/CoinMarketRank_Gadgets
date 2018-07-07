@@ -25,3 +25,28 @@
 <iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/48?embed_token=zus1ksaz00hf81fwpkzyy963cys9cedparu0m95ix3ps5lffpjo2cjrtwjix" frameborder="0"></iframe>
 ```
 ---
+## 3 Months LTC
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/50?embed_token=gsgm2pvqoy5zi58uv1rtldau2g9qedvn0oucjegigu4orohmd13g1gvlgyg5" frameborder="0"></iframe>
+```
+---
+## 3 Months XLM
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/52?embed_token=dbgf7j4ilu5q43g16axf15cyzhdpjvtrpmt7c8bihg702nxkvbolv4kmjhvd" frameborder="0"></iframe>
+```
+---
+## 3 Months ADA
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/54?embed_token=yk4z504jz7glt62tkx72b2ubjx8hew3282pdl5ovfpeamx8x3jiwlbtew6gk" frameborder="0"></iframe>
+```
+---
+## 3 Months USDT
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/56?embed_token=jltig1mja6ka8g0lbky82r0i0js4yh4nyq1psy0a5k8sixnqqgp06sl23tcb" frameborder="0"></iframe>
+```
+---
+## 3 Months IOT
+```
+<iframe width="100%" height="481" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/report/58?embed_token=7rcoo1vx5a5s35g1ldo3b4l74a3zympt8ilomfr6c4h40y8lmwgb76xv35u0" frameborder="0"></iframe>
+```
+---
