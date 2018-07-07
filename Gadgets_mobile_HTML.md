@@ -1,5 +1,21 @@
 # CoinMarketRank HTML Gadgets of the Reports to include in your website or mobile/cell app for free
 ## .
+## Global Coin Market Capitalization distribution
+```
+<iframe width="100%" height="400" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/22?embed_token=g47puyh460w94qo5r0p15m3amyxxa8yemqqpaz5wc8oiheyzyfboiufljnrl" frameborder="0"></iframe>
+```
+---
+## Global 24 Volume Coin distribution
+```
+<iframe width="100%" height="400" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/21?embed_token=sjp712qmyvbvm1uttfajoynhwttizxfe58746x7ycyiq4hwh26ey7ckogcpm" frameborder="0"></iframe>
+```
+---
+## TOP200 Mobile Coin Market Capitalization Ranking
+```
+<iframe width="100%" height="6000" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/39?embed_token=pxm5q41kg5djxrzqdxwlp6idc6s95ppor2935mdk23qqb6oamqhmczkgufmj" frameborder="0"></iframe>
+```
+---
+## .
 ## TOP20 1h Change
 ```
 <iframe width="100%" height="600" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/3/embed/report/35?embed_token=lkdzqbbvdzqixchm5mgpnggd4hffleelhdmv2bjfkq9d3kkmujmss7ai3yzl" frameborder="0"></iframe>
