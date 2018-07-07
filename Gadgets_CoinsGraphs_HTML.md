@@ -1,4 +1,4 @@
-# CoinMarketRank HTML Gadgets of the Reports to include in your website or mobile/cell app for free
+# CoinMarketRank HTML Gadgets of the COIN GRAPHS to include in your website or mobile/cell app for free
 ## .
 ## 3 Months BTC
 ```
