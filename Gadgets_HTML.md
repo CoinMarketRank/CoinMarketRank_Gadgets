@@ -25,8 +25,14 @@
 ```
 ## --
 ## Graphs
+Top 1-10
 ```
-<iframe width="103%" height="11000px" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/dashboard/12?embed_token=f1u0rmmd5r4itc9iuln5kg6x6cwbwf601h65lnib7xbiqn1ztt9utrx4jzso" frameborder="0"></iframe>
+<iframe width="103%" height="5200px" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/dashboard/12?embed_token=f1u0rmmd5r4itc9iuln5kg6x6cwbwf601h65lnib7xbiqn1ztt9utrx4jzso" frameborder="0"></iframe>
+```
+Top 11-20
+```
+<iframe width="103%" height="5200px" src="http://jira.coinmarketrank.io:8080/plugins/servlet/eazybi/accounts/4/embed/dashboard/13?embed_token=f1u0rmmd5r4itc9iuln5kg6x6cwbwf601h65lnib7xbiqn1ztt9utrx4jzso" frameborder="0"></iframe>
+                                                                
 ```
 ## --
 ## ERC20
